@@ -12,7 +12,3 @@ end
 newarray 
   
 end   
-
-my_each(array) do |n|
-newarray
-end 
